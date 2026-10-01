@@ -1,10 +1,15 @@
 <h1 align="center">Hello, I'm Felice Yang</h1>
 
 <p align="center">
-  [Data Science Undergraduate at BINUS University (GPA 3.87 / 4.00)
-  Two-time Mentor Scholarship Awardee
-  Pubic Relations Activist at Data Science Club BINUS University]
+  Data Science Undergraduate at BINUS University (GPA 3.87 / 4.00)
 </p>
+<p align="center">
+  Two-time Mentor Scholarship Awardee
+</p>
+<p align="center">
+  Pubic Relations Activist at Data Science Club BINUS University
+</p>
+
 ---
 
 ## About Me
@@ -44,8 +49,8 @@ A sentiment classifier (positive / neutral / negative) for Indonesian economic a
 A multiclass classification pipeline (Random Forest, XGBoost; GridSearchCV, 5-fold CV) that categorizes customer credit scores as Good / Standard / Poor from financial and credit-behavior data. The workflow was refactored into an OOP, MLflow-tracked pipeline, then deployed as a real-time AWS SageMaker endpoint with a Streamlit front end hosted on EC2.
 - Analyzed model interpretability using built-in and permutation feature importance
 - **Tech:** Python, scikit-learn, XGBoost, MLflow, AWS (SageMaker, S3, EC2), Streamlit
-- **Repository:** [View Repository (for AWS Pipeline](https://github.com/feliceeeee/Credit_Score_Classification_AWS_Pipeline)
-[View Repository (for Local Pipeline](https://github.com/feliceeeee/Credit_Score_Classification_Local_Pipeline)
+- **Repository:** [View Repository (for AWS Pipeline)](https://github.com/feliceeeee/Credit_Score_Classification_AWS_Pipeline) 
+[View Repository (for Local Pipeline)](https://github.com/feliceeeee/Credit_Score_Classification_Local_Pipeline)
 
 ### Student Placement & Salary Prediction — End-to-End ML Pipeline
 *Individual*
