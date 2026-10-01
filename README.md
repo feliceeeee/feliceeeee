@@ -1,10 +1,8 @@
 <h1 align="center">Hello, I'm Felice Yang</h1>
 
 <p align="center">
-  Data Science Undergraduate at BINUS University (GPA 3.87 / 4.00)
-  
-  Two-time Mentor Scholarship Awardee
-  
+  Data Science Undergraduate at BINUS University (GPA 3.87 / 4.00)<br>
+  Two-time Mentor Scholarship Awardee<br>
   Pubic Relations Activist at Data Science Club BINUS University
 </p>
 
