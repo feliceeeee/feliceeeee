@@ -2,7 +2,9 @@
 
 <p align="center">
   Data Science Undergraduate at BINUS University (GPA 3.87 / 4.00)
+  
   Two-time Mentor Scholarship Awardee
+  
   Pubic Relations Activist at Data Science Club BINUS University
 </p>
 
