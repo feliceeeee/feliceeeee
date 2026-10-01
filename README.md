@@ -1,15 +1,10 @@
-<h1 align="center">Hello, I'm Felice Yangh1>
-
-<p align="center">
-  <i>Data Science & AI Enthusiast | Aspiring Solution Architect | Interested in NLP & MLOps</i>
-</p>
+<h1 align="center">Hello, I'm Felice Yang</h1>
 
 <p align="center">
   Data Science Undergraduate at BINUS University (GPA 3.87 / 4.00)
   Two-time Mentor Scholarship Awardee
   Pubic Relations Activist at Data Science Club BINUS University
 </p>
-
 ---
 
 ## About Me
