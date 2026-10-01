@@ -18,7 +18,7 @@ Beyond technical skills, my experience as a mentor, involvement in student organ
 
 ## Technical Skills
 - **Languages:** Python, SQL, R, C
-- **Machine Learning:** scikit-learn, TensorFlow, PyTorch, XGBoost, Hugging Face
+- **Machine Learning:** scikit-learn, TensorFlow, PyTorch, Transformers
 - **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, Tableau
 - **MLOps & Tools:** AWS, Streamlit, FastAPI, MLflow
 - **Web Development:** HTML, CSS, JavaScript
@@ -34,16 +34,13 @@ Beyond technical skills, my experience as a mentor, involvement in student organ
 
 ## Featured Projects
 ### News Sentiment Classification — SMILE SPSS Competition 2026
-*Team · 🥈 5th Place*
-
+* 🥈 5th Place*
 A sentiment classifier (positive / neutral / negative) for Indonesian economic and financial news headlines, built with classical ML (TF-IDF) and a fine-tuned IndoBERT.
 - Best classical model (Linear SVM) reached **Macro F1 0.829**; fine-tuned IndoBERT reached **Macro F1 0.854**
 - **Tech:** Python, scikit-learn, PyTorch, Hugging Face Transformers, IndoBERT, NLP
 - **Repository:** [View Repository](https://github.com/feliceeeee/SPSS-Smile-2026)
 
 ### Credit Score Classification & Cloud Deployment
-*Individual*
-
 A multiclass classification pipeline (Random Forest, XGBoost; GridSearchCV, 5-fold CV) that categorizes customer credit scores as Good / Standard / Poor from financial and credit-behavior data. The workflow was refactored into an OOP, MLflow-tracked pipeline, then deployed as a real-time AWS SageMaker endpoint with a Streamlit front end hosted on EC2.
 - Analyzed model interpretability using built-in and permutation feature importance
 - **Tech:** Python, scikit-learn, XGBoost, MLflow, AWS (SageMaker, S3, EC2), Streamlit
@@ -51,15 +48,11 @@ A multiclass classification pipeline (Random Forest, XGBoost; GridSearchCV, 5-fo
 [View Repository (for Local Pipeline)](https://github.com/feliceeeee/Credit_Score_Classification_Local_Pipeline)
 
 ### Student Placement & Salary Prediction — End-to-End ML Pipeline
-*Individual*
-
 A two-stage pipeline (placement classification + salary regression) with separate ingestion, training, and evaluation stages, validated with 5-fold cross-validation and shuffle testing. Integrated MLflow for experiment tracking and deployed via FastAPI (serving) and Streamlit (interactive app).
 - **Tech:** Python, scikit-learn, MLflow, FastAPI, Streamlit
 - **Repository:** [View Repository](https://github.com/feliceeeee/Student_Placement_and_Salary_Prediction_EndtoEnd_ML)
 
 ### Stock Price Prediction (AMZN & CSCO) with LSTM
-*Individual*
-
 Forecasts next-day closing prices with stock-specific LSTM architectures, using time-based train/test splitting, MinMax scaling, and sliding-window sequencing. Reduced overfitting via L2 regularization, dropout, and architecture tuning; evaluated with RMSE, MAE, and MAPE.
 - **Tech:** Python, TensorFlow/Keras, Time Series Forecasting
 - **Repository:** [View Repository](https://github.com/feliceeeee/Stock_Price_Prediction)
