@@ -35,6 +35,7 @@ Beyond technical skills, my experience as a mentor, involvement in student organ
 ## Featured Projects
 ### News Sentiment Classification — SMILE SPSS Competition 2026
 *🥈 5th Place*
+
 A sentiment classifier (positive / neutral / negative) for Indonesian economic and financial news headlines, built with classical ML (TF-IDF) and a fine-tuned IndoBERT.
 - Best classical model (Linear SVM) reached **Macro F1 0.829**; fine-tuned IndoBERT reached **Macro F1 0.854**
 - **Tech:** Python, scikit-learn, PyTorch, Hugging Face Transformers, IndoBERT, NLP
