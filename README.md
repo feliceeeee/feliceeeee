@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Felice Yang</h1>
 
 <p align="center">
-  Data Science Undergraduate at BINUS University (GPA 3.87 / 4.00)<br>
+  Data Science Undergraduate at BINUS University<br>
   Two-time Mentor Scholarship Awardee<br>
   Pubic Relations Activist at Data Science Club BINUS University
 </p>
@@ -10,7 +10,7 @@
 
 ## About Me
 
-I am a Data Science undergraduate at BINUS University with a GPA of 3.87/4.00 and a two-time Mentor Scholarship Awardee. I have a strong interest in exploring complex problems, discovering insights, and developing data-driven solutions. Through academic projects and competitions, I have gained hands-on experience across the data science workflow, from data cleaning and exploratory data analysis to machine learning and model deployment using Python and related tools.
+I am a Data Science undergraduate at BINUS University and a two-time Mentor Scholarship Awardee with a strong interest in exploring complex problems, discovering insights, and developing data-driven solutions. Through academic projects and competitions, I have gained hands-on experience across the data science workflow, from data cleaning and exploratory data analysis to machine learning and model deployment using Python and related tools.
 
 Beyond technical skills, my experience as a mentor, involvement in student organizations, and participation in volunteering activities have strengthened my communication, collaboration, and problem-solving skills. I enjoy continuously learning, taking on new challenges, and applying my knowledge to build practical solutions that create meaningful value.
 
